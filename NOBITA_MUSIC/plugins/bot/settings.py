@@ -386,4 +386,3 @@ async def vote_change(client, CallbackQuery, _):
         )
     except MessageNotModified:
         return
-
